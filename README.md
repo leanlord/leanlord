@@ -21,7 +21,7 @@ My name is Vladimir Dadyka and I'm a frontend developer. I'm from Ukraine, livin
 
 
 ## &#x1f4c8; GitHub Stats
-[![leanlord's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leanlord&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![leanlord's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leanlord&layout=compact&langs_count=6)](https://wakatime.com/@leanlord)
 
 <a href="https://github.com/leanlord/leanlord">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leanlord&show_icons=true&line_height=27&count_private=true&title_color=black&text_color=black&icon_color=2bbc8a&bg_color=white" alt="leanlords's GitHub Stats" />
