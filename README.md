@@ -2,9 +2,6 @@
 <a href="https://twitter.com/VDadyka">
   <img align="left" alt="Vladimir Dadyka | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/1hqps6hkf2buqsvjnr4d2dk8b?si=f87ca6818cfc45c7">
-  <img align="left" alt="leanlord's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=leanlord.leanlord)
 
