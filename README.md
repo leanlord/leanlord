@@ -27,6 +27,7 @@ My name is Vladimir Dadyka and I'm a frontend developer. I'm from Ukraine, livin
 
 # 📘 My top open projects
 <p align="left">
+  <a href="https://github.com/da-blackest-funeral/IDS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=da-blackest-funeral&repo=IDS&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="IDS"></a>
   <a href="https://github.com/leanlord/creo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leanlord&repo=creo&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="creo"></a>
   <a href="https://github.com/leanlord/Hotel-Booking"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leanlord&repo=Hotel-Booking&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Hotel-Booking"></a>
   <a href="https://github.com/leanlord/evklid"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=leanlord&repo=evklid&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="evklid"></a>
