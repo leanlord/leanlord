@@ -1,7 +1,4 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/leanlord/leanlord/master/wave.gif" width="30px"> 
-<a href="https://twitter.com/VDadyka">
-  <img align="left" alt="Vladimir Dadyka | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=leanlord.leanlord)
 
