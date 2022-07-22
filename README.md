@@ -2,8 +2,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=leanlord.leanlord)
 
-My name is Vladimir Dadyka and I'm a frontend developer. I'm from Ukraine, living in Krasnodar and currently studying at KubSTU. 
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=0078D6&color=68829E)
